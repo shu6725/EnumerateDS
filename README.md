@@ -3,9 +3,9 @@ By using this software, you can enumerate derivative structure on the methodolog
 
 ### How to use
 you can enumerate binary derivative structures based on rutile structures.
-'''
+```
 pip install -r requirements.txt
 python ./src/enumerate.py
-'''
+```
 
 
